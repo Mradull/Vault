@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436049349147",
+    "project_id": "sanuu-fccd6",
+    "storage_bucket": "sanuu-fccd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436049349147:android:48cb62b7d4eb3606bb06be",
+        "android_client_info": {
+          "package_name": "com.example.Vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436049349147-muromkpupbr8ussrqd76mm1lqdh76jpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_voGP4ju4gKpL62yvGG0aJweAZqqiWsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436049349147-muromkpupbr8ussrqd76mm1lqdh76jpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
